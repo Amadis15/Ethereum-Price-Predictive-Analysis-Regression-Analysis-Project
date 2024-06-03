@@ -1,1 +1,4 @@
 # Ethereum-Price-Predictive-Analysis-Regression-Analysis-Project
+This was a project where I downloaded a dataset from Kaggle that illustrated the price that Ethereum was on the market for, starting from late 2017 until this year. The dataset set has about 7 columns that include the date, low, high and other detailed price data. I downloaded the excel file and cleaned the data since there was various issues with it.
+
+I then imported the data to Jupyter Notebook with the goal to use a linear regression model using the variable 'volume' to guage how strong of a predictor it was for the 'high' prices in the dataset. When I imported the data I explored the data in various ways, attempted to clean the data(data was already clean, so there wasnt anything to clean once it was imported to Jupyter Notebook), modeled the data and lastly performed my analysis on the data. 
